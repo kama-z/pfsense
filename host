@@ -18,6 +18,20 @@ ff02::3 ip6-allhosts
 
 #=======================================
 
+# [other]
+
+0.0.0.0 ndss.keenetic.ndmsystems.com
+0.0.0.0 dns.msftncsi.com
+0.0.0.0 sg10.lunrac.com
+0.0.0.0 am3pap005.storage.live.com
+0.0.0.0 continuum.dds.microsoft.com
+0.0.0.0 t.kite.com
+0.0.0.0 nic.ru
+0.0.0.0 clients4.google.com
+0.0.0.0 dl.acronis.com
+
+
+
 # [porn] [yandex issue 1-5]
 
 0.0.0.0 sex-studentki.cool
