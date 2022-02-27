@@ -32,6 +32,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.tabnine.com
 0.0.0.0 api.vk.com
 0.0.0.0 portal.mail.ru
+0.0.0.0 notify.tabnine.com
+0.0.0.0 ps4.pndsn.com
+0.0.0.0 api.kinogram.best
+0.0.0.0 cl5-cdn.origin-apple.com.akadns.net
+0.0.0.0 in.appcenter.ms
+0.0.0.0 example.org
+0.0.0.0 rc.kite.com
+0.0.0.0 ps11.pndsn.com
+0.0.0.0 pndsn.com
 
 
 
