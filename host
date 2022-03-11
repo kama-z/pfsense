@@ -27,15 +27,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 continuum.dds.microsoft.com
 0.0.0.0 t.kite.com
 0.0.0.0 nic.ru
+0.0.0.0 t3.zcvh.net
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 clients4.google.com
 0.0.0.0 dl.acronis.com
-0.0.0.0 api.tabnine.com
-0.0.0.0 api.vk.com
 0.0.0.0 portal.mail.ru
 0.0.0.0 notify.tabnine.com
 0.0.0.0 ps4.pndsn.com
-0.0.0.0 api.kinogram.best
 0.0.0.0 cl5-cdn.origin-apple.com.akadns.net
 0.0.0.0 in.appcenter.ms
 0.0.0.0 example.org
@@ -46,6 +44,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 array801.prod.do.dsp.mp.microsoft.com
 0.0.0.0 www.pndsn.com
 0.0.0.0 ps.pndsn.com
+0.0.0.0 push-me.mail.ru
 0.0.0.0 ie4.lunrac.com
 0.0.0.0 mc.yandex.ru
 0.0.0.0 content-autofill.googleapis.com
